@@ -2,7 +2,19 @@
   background: #deb887;
   padding: 10px;
 }
-
+button.btn {
+  cursor: pointer;
+  margin-top: 10px;
+  background: #deb887;
+  border: 1px solid #deb887;
+  padding: 7px 10px;
+  border-radius: 15px;
+}
+button.btn:hover {
+  background: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
 .site-header h1 {
   margin: 0;
   text-align: center;
