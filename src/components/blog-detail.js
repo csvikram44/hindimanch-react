@@ -6,7 +6,7 @@ function BlogDetail() {
                 <Link to="/">
                     <button className="btn">Back</button>
                 </Link>
-                <p>Post contact</p>
+                <p>xzdfd</p>
             </div>
         </div>
     )
